@@ -1,0 +1,25 @@
+
+.the_sidebar{
+    display: inline-block;
+    position: relative;
+    margin-top: 1%;
+    margin-left: 1%;
+    height: auto;
+    width: auto;
+}
+
+.flag{
+    position: relative;
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+}
+
+.the_text{
+    width: 500px;
+    margin-left: 50px;
+    position: relative;
+    display: inline-block;
+    top: -200px;
+    color: rgb(1, 1, 96);
+}

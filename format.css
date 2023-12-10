@@ -1,0 +1,65 @@
+.the_universe{
+    width: auto;
+    height: auto;
+    display: block;
+    background-color: whitesmoke;
+}
+
+.the_body{
+    width: 1200px;
+    height: 100vh;
+    display: block;
+    margin: auto;
+    overflow: auto;
+    background-color: white;
+
+}
+
+.the_header{
+    display: block;
+    width: 1200px;
+    height: 96px;
+    background-color: white;
+}
+
+.the_table{
+    color: rgb(1, 1, 96);
+    width: 1200px;
+    height:auto;
+    margin-left: 1%;
+    margin-right: 1%;
+    display: block;
+    overflow: auto;
+}
+
+.white_house{
+    display: block;
+    width: auto;
+    margin-left: 200px;
+    height: 40%;
+    overflow: auto;
+}
+
+.actions{
+    margin-left: 40px;
+    color: rgb(1, 1, 96);
+}
+.actions:hover{
+    color: red;
+}
+
+.policies{
+    margin-left: 40px;
+    color: rgb(1, 1, 96);
+}
+.policies:hover{
+    color: red;
+}
+
+.home{
+   margin-left: 40px; 
+   color: rgb(1, 1, 96);
+}
+.home:hover{
+    color: red;
+}
